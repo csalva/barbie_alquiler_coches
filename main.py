@@ -40,7 +40,6 @@ if opcion == "1":
 	else:
 		print("Matricula mal introducida")
 		
-
 if opcion == "2":
 	print("Has seleccionado ver los coches disponibles")
 	print("-------------------------------------------")
